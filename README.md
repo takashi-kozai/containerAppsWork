@@ -1,3 +1,9 @@
+# containerAppsWork
+* gihyo-book/azure-container-dev-book.git をクローン
+* 以下は、元リポジトリの内容
+
+---
+
 # azure-container-dev-book
 『Azureコンテナアプリケーション開発』（技術評論社，2023年）のサンプルコード
 
